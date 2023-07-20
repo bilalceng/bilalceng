@@ -3,7 +3,10 @@
 <h3 align="center">A passionate Android developer from Turkey Adana</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWZwbHg5dTJxbG5lZHhuZTNiZThhYzU4Y243d3Y3cGhjeWU1dmZneiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
 
+<img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <img align="center" alt="Coding" width="1200" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalceng&label=Profile%20views&color=0e75b6&style=flat" alt="bilalceng" /> </p>
 
